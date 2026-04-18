@@ -1,0 +1,12 @@
+streamlit==1.44.1
+databricks-vectorsearch
+sentence-transformers
+langchain-huggingface
+langchain>=0.1.0
+langchain-core
+langchain-community
+transformers
+torch
+accelerate
+pypdf
+python-dotenv
